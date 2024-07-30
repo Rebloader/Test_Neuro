@@ -3,3 +3,5 @@
 .idea
 .git
 __pycache__
+files
+src/upload_logs.log
